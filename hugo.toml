@@ -1,0 +1,4 @@
+baseURL = 'https://macmasasesores.com/'
+languageCode = 'es'
+title = 'Mac Mas Asesores'
+theme = 'ananke'
